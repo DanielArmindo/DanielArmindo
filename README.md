@@ -1,5 +1,5 @@
 # Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Daniel Armindo
----
+
 ## About Me
 
 Currently studying Computer Engineering @IPLeiria. **Interested in full-stack projects.**
@@ -13,6 +13,7 @@ Currently studying Computer Engineering @IPLeiria. **Interested in full-stack pr
 🌱 I’m currently learning <span style="font-weight:bold;">React</span><br><br>
 ✌️ Enjoy to do programming and sharing knowledge and learning new features <br><br>
 </p>
+
 ## Socials
 
 <p align="left">
