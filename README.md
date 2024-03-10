@@ -5,7 +5,7 @@
 Currently studying Computer Engineering @IPLeiria. **Interested in full-stack projects.**
 
 <p>
-<img align="right" width="350" src="https://res.cloudinary.com/practicaldev/image/fetch/s--NpVa0k1W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2spvnepyxjwyv1geq7mh.gif" alt="Coding gif" />
+<img align="right" width="200" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="Coding gif" />
 
 🌍 I'm based in Portugal <br><br>
 🖥️ See my portfolio <a href="#">here</a><br><br>
