@@ -10,7 +10,7 @@ Currently studying Computer Engineering @IPLeiria. **Interested in full-stack pr
 🌍 I'm based in Portugal <br><br>
 🖥️ See my portfolio <a href="#">here</a><br><br>
 ✉️ You can contact me at: daniel04armindo@gmail.com<br><br>
-🌱 I’m currently learning <span style="font-weight:bold;">React</span><br><br>
+🌱 I’m currently learning <span style="font-weight:bold;">Angular and GO</span><br><br>
 ✌️ Enjoy to do programming and sharing knowledge and learning new features <br><br>
 </p>
 
@@ -58,8 +58,9 @@ Currently studying Computer Engineering @IPLeiria. **Interested in full-stack pr
 
 ## Badges
 
-[![ImageShirt](https://github-readme-stats.vercel.app/api/pin/?username=DanielArmindo&repo=ImagineShirt_WebApp&border_color=D48908&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=D48908)](https://github.com/DanielArmindo/ImagineShirt_WebApp)
 [![Vcard](https://github-readme-stats.vercel.app/api/pin/?username=DanielArmindo&repo=VCard_WebApp&border_color=D48908&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=D48908)](https://github.com/DanielArmindo/VCard_WebApp)
+[![VcardReact](https://github-readme-stats.vercel.app/api/pin/?username=DanielArmindo&repo=VCard_ReactApp&border_color=D48908&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=D48908)](https://github.com/DanielArmindo/VCard_ReactApp)
+[![ImageShirt](https://github-readme-stats.vercel.app/api/pin/?username=DanielArmindo&repo=ImagineShirt_WebApp&border_color=D48908&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=D48908)](https://github.com/DanielArmindo/ImagineShirt_WebApp)
 [![VcardMobile](https://github-readme-stats.vercel.app/api/pin/?username=DanielArmindo&repo=VCard_MobileApp&border_color=D48908&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=D48908)](https://github.com/DanielArmindo/VCard_MobileApp)
 
 <p align="left">
