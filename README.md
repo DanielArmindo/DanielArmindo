@@ -53,7 +53,6 @@ Currently studying Computer Engineering @IPLeiria. **Interested in full-stack pr
 [![Vcard](https://github-readme-stats.vercel.app/api/pin/?username=DanielArmindo&repo=VCard_WebApp&border_color=D48908&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=D48908)](https://github.com/DanielArmindo/VCard_WebApp)
 [![VcardReact](https://github-readme-stats.vercel.app/api/pin/?username=DanielArmindo&repo=VCard_ReactApp&border_color=D48908&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=D48908)](https://github.com/DanielArmindo/VCard_ReactApp)
 [![ImageShirt](https://github-readme-stats.vercel.app/api/pin/?username=DanielArmindo&repo=ImagineShirt_WebApp&border_color=D48908&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=D48908)](https://github.com/DanielArmindo/ImagineShirt_WebApp)
-[![VcardMobile](https://github-readme-stats.vercel.app/api/pin/?username=DanielArmindo&repo=VCard_MobileApp&border_color=D48908&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=D48908)](https://github.com/DanielArmindo/VCard_MobileApp)
 
 <p align="left">
   <a href="https://github.com/DanielArmindo?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-D48908?style=for-the-badge&logo=koding&logoColor=white"/></a>
