@@ -50,8 +50,7 @@ Currently studying Computer Engineering @IPLeiria. **Interested in full-stack pr
 
 ## Badges
 
-[![Vcard](https://github-readme-stats.vercel.app/api/pin/?username=DanielArmindo&repo=VCard_WebApp&border_color=D48908&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=D48908)](https://github.com/DanielArmindo/VCard_WebApp)
-[![VcardReact](https://github-readme-stats.vercel.app/api/pin/?username=DanielArmindo&repo=VCard_ReactApp&border_color=D48908&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=D48908)](https://github.com/DanielArmindo/VCard_ReactApp)
+[![Vcard](https://github-readme-stats.vercel.app/api/pin/?username=DanielArmindo&repo=VCard-Platform&border_color=D48908&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=D48908)](https://github.com/DanielArmindo/VCard-Platform)
 [![ImageShirt](https://github-readme-stats.vercel.app/api/pin/?username=DanielArmindo&repo=ImagineShirt_WebApp&border_color=D48908&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=D48908)](https://github.com/DanielArmindo/ImagineShirt_WebApp)
 
 <p align="left">
