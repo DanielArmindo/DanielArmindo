@@ -2,7 +2,7 @@
 
 ## About Me
 
-Currently studying Computer Engineering @IPLeiria. **Interested in full-stack projects.**
+Currently pursuing a Master's in Computer Engineering at @IPLeiria, with a strong **interest in full-stack development projects**.
 
 <p>
 <img align="right" width="200" src="https://i.pinimg.com/originals/f3/85/39/f38539a08585d9631a83e240c2907514.gif" alt="Coding gif" />
